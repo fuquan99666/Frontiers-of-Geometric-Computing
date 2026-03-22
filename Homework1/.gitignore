@@ -1,0 +1,5 @@
+pointcloud_2.ply
+*.zip
+*.pdf
+__pycache__/
+.vscode
